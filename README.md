@@ -132,4 +132,4 @@ Write a `db:seed` rake task.
 * [Rails Guides](http://guides.rubyonrails.org/) - [Active Record Basics](http://guides.rubyonrails.org/association_basics.html)
 
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/playlister-on-activerecord'>Playlister On Activerecord</a> on Learn.co and start learning to code for free.</p>
+

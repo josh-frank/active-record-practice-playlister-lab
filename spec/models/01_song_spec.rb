@@ -1,5 +1,8 @@
+require 'pry'
+
 describe 'Song' do
   before do
+    binding.pry
     @song = Song.create(name: "Forever")
   end
 
